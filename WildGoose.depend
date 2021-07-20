@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1623704226 source:d:\projekty\wildgoose\main.cpp
+	<GL/glew.h>
+	"include/CoreSystems/Window.h"
+	"include/Input/Input.h"
+	"include/Time/Clock.h"
+	"include/Graphics/Texture.h"
+	"include/Graphics/Mesh.h"
+	"include/Graphics/Rectangle.h"
+	"include/Graphics/Circle.h"
+	"glm/glm.hpp"
+
+1623689381 source:d:\projekty\wildgoose\src\coresystems\window.cpp
+	"Window.h"
+
+1589215761 d:\projekty\wildgoose\include\coresystems\window.h
+	"../Debug.h"
+	<windows.h>
+	<iostream>
+	<GL/glew.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1623700105 d:\projekty\wildgoose\include\debug.h
+
+1586956785 source:d:\projekty\wildgoose\src\coresystems\clock.cpp
+	"Clock.h"
+
+1586954460 d:\projekty\wildgoose\include\coresystems\clock.h
+	"../Debug.h"
+	<windows.h>
+	<iostream>
+
+1586965107 source:d:\projekty\wildgoose\src\coresystems\input.cpp
+	"Input.h"
+
+1586965011 d:\projekty\wildgoose\include\coresystems\input.h
+	"../Debug.h"
+	<iostream>
+	<windows.h>
+
+1587465703 source:d:\projekty\wildgoose\src\input\input.cpp
+	"../Input/Input.h"
+
+1589208316 d:\projekty\wildgoose\include\input\input.h
+	<iostream>
+	<windows.h>
+	"../Debug.h"
+
+1587465692 source:d:\projekty\wildgoose\src\time\clock.cpp
+	"../Time/Clock.h"
+
+1586950860 d:\projekty\wildgoose\include\time\clock.h
+	"../Debug.h"
+	<windows.h>
+	<iostream>
+
+1589383819 source:d:\projekty\wildgoose\src\graphics\texture.cpp
+	"Texture.h"
+
+1623686937 d:\projekty\wildgoose\include\graphics\texture.h
+	<GL/glew.h>
+	<GL/gl.h>
+	"Image.h"
+	"../Debug.h"
+
+1587928657 source:d:\projekty\wildgoose\src\graphics\mesh.cpp
+	"Mesh.h"
+
+1623698472 d:\projekty\wildgoose\include\graphics\mesh.h
+	<glm/glm.hpp>
+	"../Debug.h"
+
+1623700389 source:d:\projekty\wildgoose\src\graphics\rectangle.cpp
+	"Rectangle.h"
+
+1623700278 d:\projekty\wildgoose\include\graphics\rectangle.h
+	<iostream>
+	"Mesh.h"
+	"../Debug.h"
+
+1589208303 d:\projekty\wildgoose\include\graphics\image.h
+	<GL/gl.h>
+	<iostream>
+	<fstream>
+	"../Debug.h"
+
+1589213732 source:d:\projekty\wildgoose\src\graphics\image.cpp
+	"../../include/Graphics/Image.h"
+
+1623702013 source:d:\projekty\wildgoose\src\graphics\circle.cpp
+	"Circle.h"
+
+1623700163 d:\projekty\wildgoose\include\graphics\circle.h
+	<iostream>
+	"Mesh.h"
+	"../Debug.h"
+

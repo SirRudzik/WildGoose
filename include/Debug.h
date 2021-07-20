@@ -1,0 +1,6 @@
+#ifndef DEBUG_H_INCLUDED
+#define DEBUG_H_INCLUDED
+
+#define WG_DEBUG
+
+#endif // DEBUG_H_INCLUDED
